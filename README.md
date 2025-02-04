@@ -7,7 +7,7 @@ Got feedback or suggestions? Reach out on Telegram: [@MrHutututu](https://t.me/M
 
 ## 🎨 Credits  
 - **Logo Design:** [Shahriar Zaman Siham](https://facebook.com/shahriar.siham)  
-- **UI:** Anse
+- **UI:** [Anse](https://github.com/anse-app), which is licensed under the MIT License.
 
 ## ⚠️ Note  
 This project is created **entirely for fun**, and I am using a **free API**, which comes with some limitations. If you don’t get a reply, please click **Regenerate** and try again.  
